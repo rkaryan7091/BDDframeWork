@@ -23,7 +23,7 @@ public class productPriceStepDefinition extends Base {
 		
 		log.info("Entering text into the search bar");
 		//test.info("Entering text into the search bar");
-		pc.getSearchButton().sendKeys("Iron Man",Keys.ENTER);
+		pc.getSearchButton().sendKeys("Captain Amercia",Keys.ENTER);
 		Thread.sleep(5000);
 
 	}
