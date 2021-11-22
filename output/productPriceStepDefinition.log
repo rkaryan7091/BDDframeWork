@@ -1,0 +1,20 @@
+14:23:49.706 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - Entering text into the search bar
+14:24:00.307 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - getting price from search list of first product : Price : From
+14:24:09.985 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - selecting first product
+14:24:10.054 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - getting price from product page
+14:24:10.055 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - matching price
+14:47:33.908 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - Entering text into the search bar
+14:47:46.368 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - getting price from search list of first product : Price : From
+14:47:51.889 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - selecting first product
+14:47:52.281 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - getting price from product page
+14:47:52.281 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - matching price
+14:56:56.027 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - Entering text into the search bar
+14:57:06.652 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - getting price from search list of first product : Price : From
+14:57:17.021 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - selecting first product
+14:57:17.477 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - getting price from product page
+14:57:17.478 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - matching price
+15:26:49.531 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - Entering text into the search bar
+15:27:00.988 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - getting price from search list of first product : Price : From
+15:27:07.010 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - selecting first product
+15:27:07.033 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - getting price from product page
+15:27:07.034 [main] INFO  com.mindtree.stepDefinitions.productPriceStepDefinition - matching price

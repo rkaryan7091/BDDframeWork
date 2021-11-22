@@ -1,0 +1,33 @@
+17:09:46.220 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicked on SignIn Button
+17:09:46.220 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - navigated to Login Page
+17:09:46.221 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting email addreess from excel and sending to username
+17:09:46.832 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting password from excelSheet and sending to password
+17:09:46.954 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicking on signButton
+23:38:01.505 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicked on SignIn Button
+23:38:01.505 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - navigated to Login Page
+23:38:01.506 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting email addreess from excel and sending to username
+23:38:02.255 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting password from excelSheet and sending to password
+23:38:02.357 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicking on signButton
+14:23:21.027 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicked on SignIn Button
+14:23:21.028 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - navigated to Login Page
+14:23:21.028 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting email addreess from excel and sending to username
+14:23:22.328 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting password from excelSheet and sending to password
+14:23:22.629 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicking on signButton
+14:46:59.560 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicked on SignIn Button
+14:46:59.562 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - navigated to Login Page
+14:46:59.562 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting email addreess from excel and sending to username
+14:47:02.061 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting password from excelSheet and sending to password
+14:47:02.436 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicking on signButton
+14:47:09.283 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - Validation Login Page
+14:56:17.477 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicked on SignIn Button
+14:56:17.478 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - navigated to Login Page
+14:56:17.479 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting email addreess from excel and sending to username
+14:56:19.543 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting password from excelSheet and sending to password
+14:56:19.847 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicking on signButton
+14:56:29.098 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - Validation Login Page
+15:26:17.466 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicked on SignIn Button
+15:26:17.467 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - navigated to Login Page
+15:26:17.468 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting email addreess from excel and sending to username
+15:26:18.358 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - getting password from excelSheet and sending to password
+15:26:18.459 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - clicking on signButton
+15:26:25.480 [main] INFO  com.mindtree.stepDefinitions.LoginTeststepDefinition - Validation Login Page

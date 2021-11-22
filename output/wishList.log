@@ -1,0 +1,24 @@
+14:24:28.751 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - sending keys to search Box
+14:24:35.360 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Selecting first product from  searchList
+14:24:43.008 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - adding on WishList
+14:24:43.901 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Opening WishList Section
+14:24:49.869 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Accepting welcome Message
+14:24:50.601 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Checking product is added to wishlist or not
+14:24:50.979 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Item successfully addtd to wishList
+14:48:09.607 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - sending keys to search Box
+14:48:15.875 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Selecting first product from  searchList
+14:48:23.595 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - adding on WishList
+14:57:33.630 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - sending keys to search Box
+14:57:39.617 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Selecting first product from  searchList
+14:57:48.389 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - adding on WishList
+14:57:51.828 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Opening WishList Section
+14:58:00.209 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Accepting welcome Message
+14:58:01.274 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Checking product is added to wishlist or not
+14:58:01.543 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Item successfully addtd to wishList
+15:27:20.936 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - sending keys to search Box
+15:27:24.649 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Selecting first product from  searchList
+15:27:32.239 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - adding on WishList
+15:27:33.196 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Opening WishList Section
+15:27:38.202 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Accepting welcome Message
+15:27:39.124 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Checking product is added to wishlist or not
+15:27:39.532 [main] INFO  com.mindtree.stepDefinitions.WishListstepDefinition - Item successfully addtd to wishList

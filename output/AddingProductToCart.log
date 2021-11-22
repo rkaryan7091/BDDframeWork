@@ -1,0 +1,54 @@
+17:07:03.710 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Searching a Product
+17:07:17.635 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Selecting second Product from Product List
+17:07:25.546 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks– Bigsmall.in
+17:07:25.581 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Clicking on Add to Cart Button
+17:07:25.664 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Opening Cart
+17:07:25.745 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating Product By Product Name
+17:07:28.796 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Name Matched
+17:07:28.796 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating CheckOut Button
+17:07:28.842 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks Item Succefully added To Cart
+23:31:52.189 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Searching a Product
+23:31:57.019 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Selecting second Product from Product List
+23:32:04.618 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks– Bigsmall.in
+23:32:04.642 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Clicking on Add to Cart Button
+23:32:04.717 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Opening Cart
+23:32:04.825 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating Product By Product Name
+23:32:07.885 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Name Matched
+23:32:07.885 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating CheckOut Button
+23:32:07.962 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks Item Succefully added To Cart
+14:19:13.337 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Searching a Product
+14:19:24.249 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Selecting second Product from Product List
+14:19:32.371 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks– Bigsmall.in
+14:19:32.487 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Clicking on Add to Cart Button
+14:19:32.671 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Opening Cart
+14:19:32.975 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating Product By Product Name
+14:19:36.172 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Name Matched
+14:19:36.172 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating CheckOut Button
+14:19:36.394 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks Item Succefully added To Cart
+14:43:17.302 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Searching a Product
+14:43:28.583 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Selecting second Product from Product List
+14:43:36.267 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks– Bigsmall.in
+14:43:36.336 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Clicking on Add to Cart Button
+14:43:36.621 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Opening Cart
+14:43:37.024 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating Product By Product Name
+14:43:40.121 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Name Matched
+14:43:40.122 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating CheckOut Button
+14:43:40.293 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks Item Succefully added To Cart
+14:52:15.421 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Searching a Product
+14:52:26.368 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Selecting second Product from Product List
+14:52:40.390 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks– Bigsmall.in
+14:52:40.471 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Clicking on Add to Cart Button
+14:52:40.658 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Opening Cart
+14:52:40.960 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating Product By Product Name
+14:52:44.037 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Name Matched
+14:52:44.037 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating CheckOut Button
+14:52:44.167 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks Item Succefully added To Cart
+15:23:48.297 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Searching a Product
+15:23:55.840 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Selecting second Product from Product List
+15:24:03.272 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks– Bigsmall.in
+15:24:03.298 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Clicking on Add to Cart Button
+15:24:03.365 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Opening Cart
+15:24:03.439 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating Product By Product Name
+15:24:06.496 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Name Matched
+15:24:06.497 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Validating CheckOut Button
+15:24:06.559 [main] INFO  com.mindtree.stepDefinitions.AddtoCartstepDefinition - Captain America Cartoon Socks Item Succefully added To Cart

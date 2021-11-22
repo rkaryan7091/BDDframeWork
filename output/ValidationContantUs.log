@@ -1,0 +1,36 @@
+17:08:18.083 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Clicking on Contact Us
+17:08:22.311 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Navigated TO Contact us Page
+17:08:22.312 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Name
+17:08:22.441 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Email
+17:08:22.554 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Message
+17:08:22.620 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - clicking on Send Button
+23:35:49.203 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Clicking on Contact Us
+23:35:54.851 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Navigated TO Contact us Page
+23:35:54.852 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Name
+23:35:54.943 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Email
+23:35:55.023 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Message
+23:35:55.098 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - clicking on Send Button
+14:20:35.443 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Clicking on Contact Us
+14:20:40.955 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Navigated TO Contact us Page
+14:20:40.957 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Name
+14:20:41.235 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Email
+14:20:41.494 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Message
+14:20:41.788 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - clicking on Send Button
+14:44:37.909 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Clicking on Contact Us
+14:44:43.515 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Navigated TO Contact us Page
+14:44:43.517 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Name
+14:44:44.100 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Email
+14:44:44.303 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Message
+14:44:44.546 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - clicking on Send Button
+14:54:01.955 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Clicking on Contact Us
+14:54:08.147 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Navigated TO Contact us Page
+14:54:08.149 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Name
+14:54:08.420 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Email
+14:54:08.670 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Message
+14:54:08.869 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - clicking on Send Button
+15:25:01.476 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Clicking on Contact Us
+15:25:05.557 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Navigated TO Contact us Page
+15:25:05.558 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Name
+15:25:05.644 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Email
+15:25:05.714 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - Entering Message
+15:25:05.783 [main] INFO  com.mindtree.stepDefinitions.ContactstepDefinition - clicking on Send Button

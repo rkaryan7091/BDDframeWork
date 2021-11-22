@@ -1,0 +1,70 @@
+17:11:25.342 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on Facebook Logo
+17:11:29.584 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+17:11:29.590 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to facebook site
+17:11:33.337 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+17:11:33.337 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on youtube Logo
+17:11:43.323 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+17:11:43.339 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to youtube site
+17:11:47.924 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+17:11:47.925 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+17:11:47.925 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on twitter Logo
+17:12:05.090 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+17:12:05.098 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to twitter site
+17:12:08.790 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+23:39:36.104 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on Facebook Logo
+23:39:39.748 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+23:39:39.753 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to facebook site
+23:39:42.729 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+23:39:42.729 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on youtube Logo
+23:39:52.786 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+23:39:52.815 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to youtube site
+23:39:56.351 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+23:39:56.352 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+23:39:56.352 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on twitter Logo
+23:40:10.972 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+14:25:15.214 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on Facebook Logo
+14:25:19.519 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+14:25:19.536 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to facebook site
+14:25:24.130 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+14:25:24.131 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on youtube Logo
+14:25:41.117 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+14:25:41.171 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to youtube site
+14:25:46.492 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+14:25:46.492 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+14:25:46.492 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on twitter Logo
+14:25:53.228 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+14:48:45.821 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on Facebook Logo
+14:48:50.122 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+14:48:50.134 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to facebook site
+14:48:55.532 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+14:48:55.532 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on youtube Logo
+14:49:12.616 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+14:49:12.650 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to youtube site
+14:49:17.699 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+14:49:17.700 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+14:49:17.700 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on twitter Logo
+14:49:23.902 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+14:58:21.254 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on Facebook Logo
+14:58:25.953 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+14:58:25.967 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to facebook site
+14:58:30.724 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+14:58:30.725 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on youtube Logo
+14:58:42.091 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+14:58:42.112 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to youtube site
+14:58:48.116 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+14:58:48.118 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+14:58:48.118 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on twitter Logo
+14:58:53.618 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+15:27:53.346 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on Facebook Logo
+15:27:56.631 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+15:27:56.637 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to facebook site
+15:27:58.710 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+15:27:58.710 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on youtube Logo
+15:28:06.791 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+15:28:06.896 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to youtube site
+15:28:08.624 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+15:28:08.625 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site
+15:28:08.625 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Clicking on twitter Logo
+15:28:18.670 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - Getting current page title and verifing it
+15:28:21.675 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - page navigated to twitter site
+15:28:24.390 [main] INFO  com.mindtree.stepDefinitions.SocialBarstepDefinition - driver navigate back to bigsmall site

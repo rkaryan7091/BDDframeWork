@@ -1,0 +1,199 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>0/10/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Nov 18 15:30:43 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>1 seconds (1853 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Entering data into search box and validating the results", "Optional[SearchBar Validation]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/SearchBar.feature:5)
+</pre></div><a href='#' onClick='toggleBox("stack-trace118881143", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace118881143'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/SearchBar.feature:5)
+</pre></div></td>
+<td>0</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "AddToCart and CheckOut", "Optional[AddToCart]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/AddtoCart.feature:5)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1248435962", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1248435962'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/AddtoCart.feature:5)
+</pre></div></td>
+<td>1</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "HomePage Validation", "Optional[BigSmall Site AutoMate]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/HomePage.feature:5)
+</pre></div><a href='#' onClick='toggleBox("stack-trace654740048", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace654740048'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/HomePage.feature:5)
+</pre></div></td>
+<td>0</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Clicking on the GiftCard and checking its delivery status using postal code", "Optional[GiftCard]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/GiftCard.feature:5)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1360878852", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1360878852'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/GiftCard.feature:5)
+</pre></div></td>
+<td>0</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Hovering over Shop By Category", "Optional[Hover Test]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/HoverAction.feature:5)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1395173825", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1395173825'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/HoverAction.feature:5)
+</pre></div></td>
+<td>0</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Social Bar", "Optional[SocialBar]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/socialBar.feature:4)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1050149826", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1050149826'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/socialBar.feature:4)
+</pre></div></td>
+<td>0</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validating Login", "Optional[Login Test]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/LoginTest.feature:5)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1220524164", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1220524164'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/LoginTest.feature:5)
+</pre></div></td>
+<td>0</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validating WishList", "Optional[WishList]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/WishList.feature:5)
+</pre></div><a href='#' onClick='toggleBox("stack-trace777190206", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace777190206'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/WishList.feature:5)
+</pre></div></td>
+<td>0</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Clicking AllofIt and validating Next Page", "Optional[AllofIt]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/AllofIt.feature:4)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1225114731", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1225114731'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/AllofIt.feature:4)
+</pre></div></td>
+<td>0</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+<tr>
+<td title='com.mindtree.runner.TestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.TestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Fill the details and Submit the contact form", "Optional[Contact Us]"</td>
+<td><div><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/Contact.feature:5)
+</pre></div><a href='#' onClick='toggleBox("stack-trace1787083818", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1787083818'><pre>java.lang.NullPointerException: Cannot invoke &quot;com.mindtree.utilities.GetProperty.getUrl()&quot; because &quot;com.mindtree.stepDefinitions.AllofItstepDefinition.property&quot; is null
+	at com.mindtree.stepDefinitions.AllofItstepDefinition.user_lands_on_home_page(AllofItstepDefinition.java:23)
+	at ?.User lands on Home Page(file:///C:/Users/M1073161/eclipse-workspace/BDDframeWork/./features/Contact.feature:5)
+</pre></div></td>
+<td>0</td>
+<td>com.mindtree.runner.TestRunner@7205765b</td></tr>
+</table><p>
+</body>
+</html>
