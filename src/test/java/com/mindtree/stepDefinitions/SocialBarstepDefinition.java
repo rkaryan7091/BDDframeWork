@@ -30,7 +30,7 @@ public class SocialBarstepDefinition extends Base{
 	public void facebook_page_should_displayed() {
 		test.info("Getting current page title and verifing it");
 		log.info("Getting current page title and verifing it");
-        Assert.assertEquals("Log in to Facebook",driver.getTitle());
+        Assert.assertEquals("bigsmall.in - Home | Facebook",driver.getTitle());
         test.pass("page navigated to facebook site");
         log.info("page navigated to facebook site");
 	    
